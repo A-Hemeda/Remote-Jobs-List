@@ -1,3 +1,24 @@
+## **Website & Autofill Extension**
+
+[![Apply to jobs in seconds with Zapply.](https://github.com/user-attachments/assets/149e34f7-bbdc-4ee5-8145-85fcca249bed)](https://app.zapply.jobs/onboarding?ref=github-cta-a-hemeda)
+
+Explore Zapply's website and check out:
+- Our Chrome extension, which autofills job applications in seconds.
+- A dedicated job board featuring the latest openings across various roles.
+- User accounts with multiple profiles for different resume types and roles.
+- Job application tracking with streaks and commitment awards.
+
+Experience an advanced career journey with us!
+
+<p align="center">
+  <a href="https://app.zapply.jobs/onboarding?ref=github-cta-a-hemeda">
+    <img width="700" alt="Visit Zapply" src="https://github.com/user-attachments/assets/12bc6014-0f9d-4521-bb95-80ffdd7ccae1" />
+  </a>
+</p>
+
+<p align="right"><sub>Sponsored by Zapply</sub></p>
+
+
 <h1 align="center">Remote Jobs Companies</h1>
 
 ### A list of semi to fully remote-friendly companies in or around tech.
